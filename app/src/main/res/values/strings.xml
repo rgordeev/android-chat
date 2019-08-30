@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="auth_label">Authentication</string>
+    <string name="login_label">Login</string>
+    <string name="token_success_label">Token was successfully received</string>
+    <string name="token_failure_label">Error getting token</string>
+    <string name="token_expected_label">Token is expected</string>
+</resources>
