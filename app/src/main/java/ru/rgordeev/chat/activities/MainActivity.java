@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final MediaType JSON
             = MediaType.parse("application/json; charset=utf-8");
-    private static final String AUTH_URL = "http://192.168.78.116:8080/login";
+    private static final String AUTH_URL = "http://10.0.2.2:8080/login";
     private EditText editText;
     private TextView tokenTextView;
 

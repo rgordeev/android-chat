@@ -24,8 +24,8 @@ import ua.naiksoftware.stomp.StompClient;
 
 public class ChatActivity extends AppCompatActivity {
 
-    private static final String WS_URL = "ws://192.168.78.116:8080/chat/android";
-    private static final String recipient = "Server";
+    private static final String WS_URL = "ws://10.0.2.2:8080/chat/android";
+    private static final String recipient = "roman";
 
     private MessageAdapter messageAdapter;
     private ListView messagesView;

@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.jageton.androidclient", appContext.getPackageName());
+        assertEquals("ru.rgordeev.chat", appContext.getPackageName());
     }
 }
